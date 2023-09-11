@@ -2,6 +2,7 @@
 Responsive QR code website only use HTML and css
 
 Link website : ``https://qrcode-tomi.surge.sh``
+Link Figma : ``https://www.figma.com/file/UxXHZMLbUdaEGksd2xcoiW/Qr-Code?type=design&node-id=0%3A1&mode=dev``
 
 Screenshot : 
 
