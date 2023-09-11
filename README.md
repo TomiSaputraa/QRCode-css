@@ -3,5 +3,7 @@ Responsive QR code website only use HTML and css
 
 Screenshot : 
 
-<img src="https://ik.imagekit.io/gieykury1/mobile.png?updatedAt=1694436768342" alt="qr" width="126px"/>
-<img src="https://ik.imagekit.io/gieykury1/mobile%20(1).png?updatedAt=1694436768456" alt="qr" height="126px"/>
+<p float="left">
+  <img src="https://ik.imagekit.io/gieykury1/mobile.png?updatedAt=1694436768342" alt="qr" width="126px"/>
+  <img src="https://ik.imagekit.io/gieykury1/mobile%20(1).png?updatedAt=1694436768456" alt="qr" height="126px"/>
+</p>
