@@ -8,6 +8,6 @@ Screenshot :
   <img src="https://ik.imagekit.io/gieykury1/mobile%20(1).png?updatedAt=1694436768456" alt="qr" height="300"/>
 </p>
 
-Solarized dark             |  Solarized Ocean
+Mobile view                |  Desktop View
 :-------------------------:|:-------------------------:
-![](https://ik.imagekit.io/gieykury1/mobile%20(1).png?updatedAt=1694436768456)  |  ![](https://ik.imagekit.io/gieykury1/mobile%20(1).png?updatedAt=1694436768456)
+![](https://ik.imagekit.io/gieykury1/mobile.png?updatedAt=1694436768342)  |  ![](https://ik.imagekit.io/gieykury1/mobile%20(1).png?updatedAt=1694436768456)
