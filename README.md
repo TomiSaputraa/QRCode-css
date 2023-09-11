@@ -10,4 +10,4 @@ Screenshot :
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![]([https://...Dark.png](https://ik.imagekit.io/gieykury1/mobile%20(1).png?updatedAt=1694436768456))  |  ![]([https://...Ocean.png](https://ik.imagekit.io/gieykury1/mobile%20(1).png?updatedAt=1694436768456)https://ik.imagekit.io/gieykury1/mobile%20(1).png?updatedAt=1694436768456)
+![](https://ik.imagekit.io/gieykury1/mobile%20(1).png?updatedAt=1694436768456)  |  ![](https://ik.imagekit.io/gieykury1/mobile%20(1).png?updatedAt=1694436768456)
